@@ -632,13 +632,17 @@
         "uuid": "7f7d57b8-28ee-4499-a4af-86beb4492c34"
       }
     ],
-    "used_designators": "D1,BT1,#PWR9-17,SW2,C4-5,R4",
+    "used_designators": "R1,J2-3,U5,D1,BT1,#PWR1-2,#PWR12,#PWR18-21,C5",
     "variants": []
   },
   "sheets": [
     [
       "7f7d57b8-28ee-4499-a4af-86beb4492c34",
       "Cat_feeder_KiCad"
+    ],
+    [
+      "5cd6059d-6f81-40ad-a589-7f438c14dac2",
+      "RTC_board"
     ]
   ],
   "text_variables": {},
