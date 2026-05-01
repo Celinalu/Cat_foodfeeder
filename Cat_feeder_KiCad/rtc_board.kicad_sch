@@ -2166,7 +2166,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 222.25 93.218 90)
 			(hide yes)
 			(show_name no)
@@ -2526,7 +2526,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 138.43 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2791,7 +2791,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 209.55 101.9048 0)
 			(hide yes)
 			(show_name no)
