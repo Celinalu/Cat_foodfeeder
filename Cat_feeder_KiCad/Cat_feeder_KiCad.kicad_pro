@@ -508,7 +508,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../Cat_feeder_GERBERS/",
       "specctra_dsn": "",
       "vrml": ""
     },
