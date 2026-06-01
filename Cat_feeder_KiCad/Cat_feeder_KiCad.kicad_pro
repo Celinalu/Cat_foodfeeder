@@ -508,7 +508,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../Cat_feeder_GERBERS/",
+      "plot": "C:/Users/zongw/OneDrive/桌面/Hardware stuff/Cat Foodfeeder/CatFeeder_GERBERS/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -632,7 +632,7 @@
         "uuid": "7f7d57b8-28ee-4499-a4af-86beb4492c34"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J3,#PWR12,#PWR20",
     "variants": []
   },
   "sheets": [
