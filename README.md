@@ -19,4 +19,5 @@ The feeder has many lid-like tops, and the only screws in the whole machine are 
 I decided to do this project since I thought that this would be a fun and useful project that I could actually use in my house, so it wouldn't become an object collecting dust. Compared to other machine-like projects, this one had relatively not amount of componnets, so it was still within my abilities to figure this project out.
 
 # Zine 
-[Cat feeder Zine.pdf](https://github.com/user-attachments/files/28683670/Cat.feeder.Zine.pdf)
+<img width="536" height="761" alt="Screenshot 2026-06-07 113851" src="https://github.com/user-attachments/assets/45316196-468f-4ed5-b8b6-604cbecc036f" />
+
